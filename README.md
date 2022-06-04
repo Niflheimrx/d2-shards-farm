@@ -10,6 +10,9 @@ This script will only farm legendary shards from the collections menu and nothin
 ### Why use this over Tiny Task?
 While Tiny Task is easier in terms of setting it up for your own needs (and for general autoclicker purposes), this macro has been set up so it will always work as long as you follow the simple instructions below. I've also had reports of Tiny Task compromising Steam accounts and installing keyloggers. This script only uses AutoHotkey and nothing else so it's pretty safe.
 
+### I've seen macros that work faster than this, what gives??
+To prevent abuse of the D2 API I have added small delays to each action to prevent misclicks and to prevent spam bans. You can lower each delay by 200 miliseconds to speed up the process but you put yourself at more risk for that reason.
+
 ## Before starting the script:
 Install AutoHotkey, [you can click here for the latest v1 build](https://www.autohotkey.com/download/ahk-install.exe) (**Note: You need to have v1 installed**)   
 In order to increase the effectiveness of this script, you need to prepare yourself by doing the following:
