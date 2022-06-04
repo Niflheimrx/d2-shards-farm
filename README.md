@@ -32,4 +32,3 @@ In order to increase the effectiveness of this script, you need to prepare yours
 If you want to stop the farming process or something has gone wrong, you can do either the following:
 - Press F7 again, it will stop the script when it goes to the next screen/menu
 - Go to the AutoHotkey icon in your taskbar, right click it and click on 'Exit'
-- Go
