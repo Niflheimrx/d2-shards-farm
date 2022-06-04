@@ -15,7 +15,7 @@ SetWorkingDir %A_ScriptDir% ; Initializes this script from the current directory
 F7::
 Toggle := !Toggle
 
-loop, 10
+loop, 90
 {
 	If !Toggle
 		break
